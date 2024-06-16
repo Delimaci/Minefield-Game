@@ -1,0 +1,36 @@
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.csprojAssemblyReference.cache
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.Form1.resources
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.Properties.Resources.resources
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.csproj.GenerateResource.cache
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.csproj.CoreCompileInputs.cache
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.exe.config
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.exe
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.pdb
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.exe
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.pdb
+Y:\Computer Programming\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_Controls.resources
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.exe.config
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.exe
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.pdb
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.csprojAssemblyReference.cache
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.Form1.resources
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_Controls.resources
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.Properties.Resources.resources
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.csproj.GenerateResource.cache
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.exe
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.pdb
+C:\Users\ddim yn cymraeg\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_Menu.resources
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.csprojAssemblyReference.cache
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.Form1.resources
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_Controls.resources
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_Menu.resources
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.Properties.Resources.resources
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.csproj.GenerateResource.cache
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.exe
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.pdb
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.exe.config
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.exe
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\bin\Debug\ProjectMinefield.pdb
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_Difficulty.resources
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_AddUser.resources
+C:\Users\Gab\Downloads\ProjectMinefield\ProjectMinefield\obj\Debug\ProjectMinefield.frm_loadgame.resources
